@@ -16,6 +16,6 @@ git add .gitattributes
 
 # 然后再添加大文件到本地缓存区
 git add demo.pdf
-git commit -m "提交.a大文件"
+git commit -m "提交大文件"
 git push
 ```
